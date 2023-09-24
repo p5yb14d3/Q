@@ -1,3 +1,7 @@
+/*********************************
+* author: p5yb14d3
+*********************************/
+
 renderer = new THREE.WebGLRenderer();
 renderer.setSize(window.innerWidth, window.innerHeight);
 
